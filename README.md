@@ -14,7 +14,7 @@
 
 - 📫 How to reach me *shakilpp123456@gmail.com*
 
-- 📄 Know about my experiences [https://drive.google.com/drive/folders/1sU0stZGtzUz1Uz2hQQe3fU0m_ht-S3AL?lfhs=2](https://drive.google.com/drive/folders/1sU0stZGtzUz1Uz2hQQe3fU0m_ht-S3AL?lfhs=2)
+- 📄 Know about my experiences [https://drive.google.com/file/d/17gxAc8lmovBKGQ7oEPSos8TkS9KqAjz2/view?usp=share_link](https://drive.google.com/file/d/17gxAc8lmovBKGQ7oEPSos8TkS9KqAjz2/view?usp=share_link)
 
 - ⚡ Fun fact *Computer "Bugs" was inspired by a real Insect*
 
