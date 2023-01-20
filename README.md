@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi there , I'm <a href="https://shakilpendhari.github.io/">Shakil Pendhari 💻</a>!
+  Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">, I'm <a href="https://shakilpendhari.github.io/">Shakil Pendhari 💻</a>!
 </h2>
 
 Hello Everyone! my name is Shakil Pendhari and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people.
