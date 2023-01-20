@@ -1,5 +1,5 @@
 <h2 align="center">
-  Hi there <img src="https://camo.githubusercontent.com/b0f7aff0ada95f395fee20dc3f694a534545abad47b04a1902d4ec6a8ba08838/68747470733a2f2f6d79776179732d7075626c69632d646174612d70726f642e73332e61702d736f7574682d312e616d617a6f6e6177732e636f6d2f6d79776179732d7265736f757263652d6c6962726172792f626c6f67732f7570636f6d696e672d6361726565722d6f70706f7274756e69746965732d696e2d323032322d63633837625f496d6167655f626c6f67732e706e67" width="28"> , I'm <a href="https://shakilpendhari.github.io/">Shakil Pendhari 💻</a>!
+  Hi there , I'm <a href="https://shakilpendhari.github.io/">Shakil Pendhari 💻</a>!
 </h2>
 
 Hello Everyone! my name is Shakil Pendhari and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people.
