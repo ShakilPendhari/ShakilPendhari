@@ -15,7 +15,7 @@ Hello Everyone! my name is Shakil Pendhari and I am a Full Stack Developer, pass
       </p>
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakilpendhari" alt="shakilpendhari" /></a> </p>
+<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakilpendhari" alt="shakilpendhari" /></a> </p>
 
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
