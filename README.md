@@ -8,12 +8,14 @@ Hello Everyone! my name is Shakil Pendhari and I am a Full Stack Developer, pass
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shakilpendhari&label=Profile%20views&color=0e75b6&style=flat" alt="shakil pendhari" /> </p>
 
+
    <p align="center" color:"red">
      <a href="https://github.com/shakilpendhari/readme-typing-svg">
           <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Shakil Pendhari 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
       </p>
       
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=loki343" alt="loki343" /></a> </p>
 
 - 🔭 I’m currently pursuing **Full Stack Web Development**
 
