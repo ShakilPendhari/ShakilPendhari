@@ -31,7 +31,7 @@ Hello Everyone! my name is Shakil Pendhari and I am a Full Stack Developer, pass
 
 - 💬 Have a look at my [Portfolio](https://shakilpendhari.github.io/)
 
-- 🔭 Have a look at my [Resume]((https://drive.google.com/file/d/17gxAc8lmovBKGQ7oEPSos8TkS9KqAjz2/view))
+- 🔭 Have a look at my [Resume](https://drive.google.com/file/d/17gxAc8lmovBKGQ7oEPSos8TkS9KqAjz2/view)
 
   <br> 
 <h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
