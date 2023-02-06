@@ -30,7 +30,7 @@ Hello Everyone! my name is Shakil Pendhari and I am a Full Stack Developer, pass
 - ⚡ Fun Fact: Imagination is more important than knowledge
 
 - 💬 Have a look at my [Portfolio](https://shakilpendhari.github.io/)
-- 
+
 - 🔭 Have a look at my [Resume]([https://shakilpendhari.github.io/](https://drive.google.com/file/d/17gxAc8lmovBKGQ7oEPSos8TkS9KqAjz2/view))
 
   <br> 
