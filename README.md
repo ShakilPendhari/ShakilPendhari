@@ -84,9 +84,9 @@ Hello Everyone! my name is Shakil Pendhari and I am a Full Stack Developer, pass
 </div>
 <div align="center" style="display: flex; ">
  
-<img src="https://streak-stats.demolab.com?user=jahirpendhari09&_border=true&theme=radical&hide_border=true&theme=react" style="width: 40%" />
+<img src="https://streak-stats.demolab.com?user=shakilpendhari&_border=true&theme=radical&hide_border=true&theme=react" style="width: 40%" />
 
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=jahirpendhari09&theme=react-dark&hide_border=true" /></a>
+  <a><img alt="Activity Graph" src="https://github-readme-activity-graph.cyclic.app/graph?username=shakilpendhari&theme=react-dark&hide_border=true" /></a>
