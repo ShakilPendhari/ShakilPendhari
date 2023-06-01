@@ -88,4 +88,4 @@ Hello Everyone! my name is Shakil Pendhari and I am a Full Stack Developer, pass
 </div>
 
  <h2 align="left">⚡Activity Graph:</h2>
-   <a><img alt="Activity Graph" src="https://github-readme-activity-graph.vercel.app/graph?username=ShakilPendhari&bg_color=b1a9ae&color=1d5200&line=6c90a3&point=a30000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
+   <a><img alt="Activity Graph(https://ashutosh00710.github.io/github-readme-activity-graph/)" src="https://github-readme-activity-graph.vercel.app/graph?username=ShakilPendhari&bg_color=b1a9ae&color=1d5200&line=6c90a3&point=a30000&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
