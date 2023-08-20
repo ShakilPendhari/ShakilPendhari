@@ -24,7 +24,7 @@ Hello Everyone! my name is Shakil Pendhari and I am a Full Stack Developer, pass
 
 - 📫 Reach me on **shakilpp123456@gmail.com**
 
-- 💬 ask me about anything, i am happy to help
+- 💬 ask me about anything, I am happy to help
 
 - ⚡ Fun Fact: Imagination is more important than knowledge
 
