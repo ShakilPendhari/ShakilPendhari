@@ -1,6 +1,6 @@
 
-<p alien="center" > Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , 
-I'm <a href="https://shakilpendhari.github.io/">Shakil Pendhari 💻</a>!  </p>
+<h3 alien="center" > Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , 
+I'm <a href="https://shakilpendhari.github.io/">Shakil Pendhari 💻</a>!  </h3>
 
 Hello Everyone! my name is Shakil Pendhari and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people.
 
