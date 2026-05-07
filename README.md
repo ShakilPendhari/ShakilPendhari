@@ -1,92 +1,124 @@
+<div align="center">
 
+<img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Shakil+Pendhari+👋;Full+Stack+Developer+%7C+SDE-1;React+•+Next.js+•+Node.js+•+AWS;Building+Production+SaaS+Platforms&font=Fira+Code&center=true&width=520&height=50&color=1a56db&vCenter=true&size=20&pause=1000" />
 
-<p alien="center" > Hi there  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> , 
-I'm <a href="https://shakilpendhari.github.io/">Shakil Pendhari 💻</a>!  </p>
-
-Hello Everyone! my name is Shakil Pendhari and I am a Full Stack Developer, passionate about building digital products that improve everyday experience for people.
-
-<img align="center" alt="Coding" width="100%" style="text-align:center" src="https://globaleducation.s3.ap-south-1.amazonaws.com/globaledu/gif/front-end-development.gif">
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=shakilpendhari&label=Profile%20views&color=0e75b6&style=flat" alt="shakil pendhari" /> </p>
-
-
-   <p align="center" color:"red">
-	<a href="https://github.com/shakilpendhari/readme-typing-svg">
-          <img src="https://readme-typing-svg.demolab.com/?lines=hi! My self Shakil Pendhari 🏽; I am a Full-stack%20web%20developer 🏻‍💻; interested in Coding 🏃‍♂️♂️;Curious%20to%20learn%20new%20things !&font=Fira%20Code&center=true&width=440&height=45&color=#37bcf7&vCenter=true&size=22&pause=1000"></a>
-      </p>
-      
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
-<p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=shakilpendhari" alt="shakilpendhari" /></a> </p>
-
-- 🔭 I’m currently pursuing **Full Stack Web Development**
-
-- 🌱 I’m currently learning **MERN stack**
-
-- 👯 I’m looking to collaborate on **MERN Stack Project**
-
-- 📫 Reach me on **shakilpp123456@gmail.com**
-
-- 💬 ask me about anything, I am happy to help
-
-- ⚡ Fun Fact: Imagination is more important than knowledge
-
-- 💬 Have a look at my [Portfolio](https://shakilpendhari.github.io/)
-
-- 🔭 Have a look at my [Resume](https://drive.google.com/file/d/155WisYPRHYVj0j4ZSiRz6qMWUtYRwZug/view?usp=sharing)
-
-  <br> 
-<h2> Connect with me <img src='https://raw.githubusercontent.com/ShahriarShafin/ShahriarShafin/main/Assets/handshake.gif' width="100px"> </h2>
-
- </p>
-<p align="left">
-	<a href="https://www.linkedin.com/in/shakil-pendhari-b00351245/">
-		<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-	</a>
-        <a href="mailto:shakilpp123456@gmail.com">
-		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-	</a>
-</p>
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=shakilpendhari&label=Profile+views&color=1a56db&style=flat" alt="profile views" />
+  <a href="https://www.linkedin.com/in/shakil-pendhari-b00351245/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" /></a>
+  <a href="mailto:shakilpp123456@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://shakilpendhari.github.io/"><img src="https://img.shields.io/badge/Portfolio-111111?style=flat&logo=vercel&logoColor=white" /></a>
 </p>
 
-<h2>🥇 Skills:  </h2>  
-<p >
-    <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5" />
-    <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3" /> 
-    <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="javascript" />
-    <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs" />
-    <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="expressjs" />
-    <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="mongodb" />
-    <img src="https://img.shields.io/badge/npm-CB3837?style=for-the-badge&logo=npm&logoColor=white" alt="npm" />
-    <img src="https://img.shields.io/badge/Git-f44d27?style=for-the-badge&logo=git&logoColor=white" alt="git" />
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github" />
-    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="reactjs" />
-    <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="redux" /> 
-    <img src="https://img.shields.io/badge/Chakra%20UI-3bc7bd?style=for-the-badge&logo=chakraui&logoColor=white" alt="chakra-ui" />
-  
-</p>
+</div>
 
-<br/>
+---
+
+### 👨‍💻 About Me
+
+Full Stack Developer (SDE-1) with **2.7+ years** of production experience building scalable SaaS and consumer platforms at **BOSC Tech Labs**. I work across the full stack — from designing MySQL schemas and REST APIs to deploying multi-tenant infrastructure on AWS with CI/CD pipelines.
+
+Currently building **CricVision** — a live multi-tenant SaaS platform for cricket academies serving **500+ users**, with subdomain-based tenant isolation, Firebase Auth, and full AWS infrastructure.
+
+- 🔭 Currently working on **CricVision** — Multi-tenant SaaS for cricket academies
+- 🌱 Deepening expertise in **system design, Docker, and distributed systems**
+- 💼 Open to **Remote Full Stack Developer roles** (React / Node / AWS)
+- 📫 Reach me at **shakilpp123456@gmail.com**
+- ⚡ I ship things to production — not just to GitHub
+
+---
+
+### 🛠️ Tech Stack
+
+**Frontend**
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white)
+![Redux](https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white)
+
+**Backend**
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=for-the-badge&logo=nestjs&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
+
+**Database & ORM**
+![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![TypeORM](https://img.shields.io/badge/TypeORM-FE0803?style=for-the-badge&logo=typeorm&logoColor=white)
+
+**Infrastructure & DevOps**
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+
+---
+
+### 🚀 Featured Projects
+
+#### 🏏 [CricVision](https://app.cricvision.ai) — Multi-Tenant SaaS for Cricket Academies
+> React.js · Next.js · Node.js · TS.ED · MySQL · AWS · Firebase Auth · Caddy
+
+- Live platform serving **500+ users** across cricket academies
+- Subdomain-based multi-tenancy (`academy.cricvision.ai`) with per-tenant Firebase Auth middleware
+- 13+ table MySQL schema covering academies, users, batches, attendance, fees, and performance
+- Full AWS stack: EC2, RDS, S3 + CloudFront, with on-demand TLS via Caddy + Cloudflare
+
+---
+
+#### 🤖 [Foundersmate](https://foundersmate.com) — AI-Based Project Planning Platform
+> React.js · Next.js · Node.js · Express.js · OpenAI API · Gemini API · AWS · Caddy
+
+- Built full product end-to-end: frontend, backend, admin panel, and landing page
+- Integrated OpenAI and Gemini APIs for automated project documentation and workflow generation
+- Deployed and maintained on AWS EC2 with Caddy reverse proxy
+
+---
+
+#### 🎵 [Corral](https://corral.social) — Music Review & Community Platform
+> React.js · Supabase · Spotify API · Firebase · TanStack Query · Zustand
+
+- Designed and built complete platform from scratch targeting **5,000+ users**
+- Architecture supports **300+ concurrent users**
+- Integrated Spotify API for real-time music data; optimized performance with TanStack Query
+
+---
+
+#### 💸 [Tap4Change](https://tap4change.org/) — Donation & Rewards Platform
+> React.js · NestJS · AWS (Lambda, EC2, S3, RDS) · PostgreSQL · Stripe
+
+- Built React frontend and NestJS backend with AWS Lambda authentication
+- Integrated Stripe payment gateway; managed PostgreSQL on RDS
+
+---
+
+### 📊 GitHub Stats
 
 <div align="center">
-        <img src="https://camo.githubusercontent.com/3997f3b27a68e19c31e2d1c378d77303735faa42e7d18a8018f7510d66aaa83e/68747470733a2f2f7777772e77696e677374656368736f6c7574696f6e732e636f6d2f77702d636f6e74656e742f75706c6f6164732f323032322f30332f66756c6c2d737461636b2d646576656c6f706d656e742e676966" width="50%"/>
- 
-</div>
 
-## 📊 My Github Stats
-
-<!-- github status  -->
-
-<div align="center" style="display: flex; gap:50px">
-
-<img src="https://github-readme-stats.vercel.app/api?username=shakilpendhari&theme=solarized-dark&border_radius=4.6&show_icons=true&count_private=true&hide_border=true&show_icons=true" style="width: 40%" />
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilpendhari&theme=solarized-dark&border_radius=4.6&hide_border=true&layout=compact&show_icons=true" style="width: 40%" />
-
-</div>
-<div align="center" style="display: flex; ">
- 
-<img src="https://streak-stats.demolab.com?user=shakilpendhari&_border=true&theme=radical&hide_border=true&theme=react" style="width: 40%" />
+<img src="https://github-readme-stats.vercel.app/api?username=shakilpendhari&theme=react&border_radius=6&show_icons=true&count_private=true&hide_border=true" style="width:47%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilpendhari&theme=react&border_radius=6&hide_border=true&layout=compact" style="width:40%" />
 
 </div>
 
- <h2 align="left">⚡Activity Graph:</h2>
-   <a><img alt="Activity Graph(https://ashutosh00710.github.io/github-readme-activity-graph/)" src="https://github-readme-activity-graph.vercel.app/graph?username=ShakilPendhari&bg_color=819cc1&color=b300a4&line=b9e260&point=6e59d9&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph" /></a>
+<div align="center">
+  <img src="https://streak-stats.demolab.com?user=shakilpendhari&theme=react&hide_border=true" style="width:50%" />
+</div>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/shakil-pendhari-b00351245/">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:shakilpp123456@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://shakilpendhari.github.io/">
+    <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=vercel&logoColor=white" />
+  </a>
+</p>
