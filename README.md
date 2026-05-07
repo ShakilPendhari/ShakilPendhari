@@ -68,7 +68,7 @@ Currently building **CricVision** — a live multi-tenant SaaS platform for cric
 
 ---
 
-#### 🤖 [Foundersmate](https://foundersmate.com) — AI-Based Project Planning Platform
+#### 🤖 [Foundersmate](https://foundersmate.ai) — AI-Based Project Planning Platform
 > React.js · Next.js · Node.js · Express.js · OpenAI API · Gemini API · AWS · Caddy
 
 - Built full product end-to-end: frontend, backend, admin panel, and landing page
