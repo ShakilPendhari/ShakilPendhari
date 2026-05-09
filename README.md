@@ -98,8 +98,7 @@ Currently building **CricVision** — a live multi-tenant SaaS platform for cric
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=shakilpendhari&theme=react&border_radius=6&show_icons=true&count_private=true&hide_border=true" style="width:47%" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shakilpendhari&theme=react&border_radius=6&hide_border=true&layout=compact" style="width:40%" />
+<img src="https://github-readme-streak-stats.herokuapp.com?user=shakilpendhari&theme=react&hide_border=true" style="width:47%" />
 
 </div>
 
