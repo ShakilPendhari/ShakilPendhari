@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?lines=Hey+there!+I'm+Shakil+Pendhari+👋;Full+Stack+Developer+%7C+SDE-1;React+•+Next.js+•+Node.js+•+AWS;Building+Production+SaaS+Platforms&font=Fira+Code&center=true&width=520&height=50&color=1a56db&vCenter=true&size=20&pause=1000" />
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=20&pause=1000&color=1A56DB&center=true&vCenter=true&width=520&height=50&lines=Hey+there!+I'm+Shakil+Pendhari+👋;Full+Stack+Developer+%7C+SDE-1;React+•+Next.js+•+Node.js+•+AWS;Building+Production+SaaS+Platforms)](https://git.io/typing-svg)
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=shakilpendhari&label=Profile+views&color=1a56db&style=flat" alt="profile views" />
