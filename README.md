@@ -96,11 +96,11 @@ Currently building **CricVision** — a live multi-tenant SaaS platform for cric
 
 ### 📊 GitHub Stats
 
-<div align="center">
+<!-- <div align="center">
 
 <img src="https://github-readme-streak-stats.herokuapp.com?user=shakilpendhari&theme=react&hide_border=true" style="width:47%" />
 
-</div>
+</div> -->
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=shakilpendhari&theme=react&hide_border=true" style="width:50%" />
